@@ -1,6 +1,5 @@
-workspace = { members = ["decoys/nitrogendecoy"] }
 [package]
-name = "reverseshell"
+name = "nitrogendecoy"
 version = "0.1.0"
 edition = "2021"
 
